@@ -1,1 +1,2 @@
 - Searching Some APIs for Quiz.
+- Drop te Plan of API's for Quiz. Sticking with the database and Custom Quiz.
