@@ -14,3 +14,4 @@ CREATE TABLE Quizzes (
 );
 ```
 - try out [Chart.js](https://www.chartjs.org/) To Create Chart For LeaderBoard.
+- Added Model in [QuizOne](https://github.com/rodeomar/QuizOne) Application.
